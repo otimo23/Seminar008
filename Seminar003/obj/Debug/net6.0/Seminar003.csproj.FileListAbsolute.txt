@@ -1,0 +1,15 @@
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\bin\Debug\net6.0\Seminar003.exe
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\bin\Debug\net6.0\Seminar003.deps.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\bin\Debug\net6.0\Seminar003.runtimeconfig.json
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\bin\Debug\net6.0\Seminar003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\bin\Debug\net6.0\Seminar003.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.csproj.AssemblyReference.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.AssemblyInfoInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.AssemblyInfo.cs
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.csproj.CoreCompileInputs.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\refint\Seminar003.dll
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.pdb
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\Seminar003.genruntimeconfig.cache
+C:\Users\otimo\Documents\E\IT\С Sharp\Seminar008\Seminar003\obj\Debug\net6.0\ref\Seminar003.dll
